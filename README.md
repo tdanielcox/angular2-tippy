@@ -25,6 +25,8 @@ declarations: [
 ]
 ```
 
+Important: Include the CSS from the tippy package
+
 ## Usage
 
 ```html
