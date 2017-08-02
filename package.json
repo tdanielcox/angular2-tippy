@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/tdanielcox/angular2-tippy/issues"
   },
-  "homepage": "https://github.com/tdanielcox/angular2-tippy#readme"
+  "homepage": "https://github.com/tdanielcox/angular2-tippy#readme",
+  "dependencies": {
+    "tippy.js": "^1.2.0"
+  }
 }
