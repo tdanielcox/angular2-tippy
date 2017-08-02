@@ -1,0 +1,25 @@
+{
+  "name": "angular2-tippy",
+  "version": "1.0.0",
+  "description": "An angular2 directive for tippy.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdanielcox/angular2-tippy.git"
+  },
+  "keywords": [
+    "tippy",
+    "angular2-tippy",
+    "tooltips",
+    "angular2-tooltips"
+  ],
+  "author": "Daniel Cox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdanielcox/angular2-tippy/issues"
+  },
+  "homepage": "https://github.com/tdanielcox/angular2-tippy#readme"
+}
