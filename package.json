@@ -22,8 +22,10 @@
     "url": "https://github.com/tdanielcox/angular2-tippy/issues"
   },
   "homepage": "https://github.com/tdanielcox/angular2-tippy#readme",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0 || ^2.0.0"
+  },
   "dependencies": {
-    "@angular/core": "^4.0.0 || ^2.0.0",
     "tippy.js": "^1.2.0"
   }
 }
