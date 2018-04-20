@@ -1,3 +1,5 @@
+## This package has been deprecated, use `tdanielcox/ngx-tippy` instead
+
 Angular2 Tippy
 ==============
 
